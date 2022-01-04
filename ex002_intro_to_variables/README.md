@@ -1,4 +1,4 @@
-
+## ex002_intro_to_variables
 
 Running in VSC (Run >> Run Without Debugging)
 ```
@@ -16,4 +16,20 @@ Detaching
 dlv dap (6540) exited with code: 0
 ```
 and from bash
+```
+~/projects/learning-go/ex002_intro_to_variables $ go run intro_to_variables.go
+Hello World
+Variable strHelloWorld2 is of type: string
+42
+Variable intMeaningOfLife is of type: int
+0
+3.141
+~/projects/learning-go/ex002_intro_to_variables $ go run .
+Hello World
+Variable strHelloWorld2 is of type: string
+42
+Variable intMeaningOfLife is of type: int
+0
+3.141
+```
 
