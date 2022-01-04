@@ -1,6 +1,9 @@
 
+Personal notes while learning-go.
 
-[Helloworld](ex001_helloworld/README.md)
+Starting with the basics:
+* [Setup MacOSX](ex000_setup/README.md)
+* [helloworld in go - run direcrly or build an executable](ex001_helloworld/README.md)
 
 
 
