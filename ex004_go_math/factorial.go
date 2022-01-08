@@ -1,5 +1,8 @@
 package main
 
+// https://go.dev/play/p/53TmmygltkR for factorial function
+// https://go.dev/play/p/r5dG6X5YuF for ParseInt demo
+
 import (
 	"bufio"
 	"fmt"
