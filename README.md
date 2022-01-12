@@ -7,6 +7,7 @@ Starting with the basics:
 * [Intro to variables](ex002_intro_to_variables/README.md)
 * [`bufio` and `os` packages ](ex003_console_input/README.md)
 * [using `math/big` as factorials gets big quickly](ex004_go_math/README.md)
+* [`time` package and common standard time formats](ex005_time_pkg/README.md)
 
 
 
